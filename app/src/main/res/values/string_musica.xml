@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="artista">Artista</string>
+    <string name="nombre_cancion">Nombre cancion</string>
+    <string name="album">Album</string>
+    <string name="boton_guardar">Guardar</string>
+    <string name="radio_genero_tropical">Tropical</string>
+    <string name="radio_genero_rock">Rock</string>
+    <string name="radio_genero_pop">Pop</string>
+</resources>
